@@ -1,3 +1,3 @@
-this is HTML,css assignment
+this is HTML,css and js assignment
 
 updating......done 
